@@ -1,0 +1,3603 @@
+{
+  "INFLUENZA · 2024, 2025, 2026": {
+    "key": "INFLUENZA · 2024, 2025, 2026",
+    "filename": "CampañaInfluenza.xlsx",
+    "years": [
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "rows": [
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 153,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 90,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 1554,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 52,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 4,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 16,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 270,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 731,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 85,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 707,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 3007,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 40,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 84,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 225,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 85,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 2140,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 2069,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 12,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 31,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 1474,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 991,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 52,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 288,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 2387,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 7,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 529,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 78,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 49,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 2240,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 2334,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 10,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 37,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 1965,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 782,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 47,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 309,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 1314,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 14,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 666,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 63,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 46,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 2909,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 772,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 13,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 34,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 534,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 780,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 23,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 136,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 996,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 55,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 177,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 16,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 40,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 1445,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 58,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 8,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 4,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 257,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 377,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 6,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 24,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 552,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 7,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 12,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 12,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 15,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 376,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 16,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 8,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 162,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 44,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 3,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 4,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 226,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 17,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 24,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 7,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 6,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 133,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 6,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 7,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 12,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 16,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 10,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 5,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 117,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 40,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 12,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 13,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 17,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 5,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 7,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 131,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 22,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 8,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 12,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 64 años de edad",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 4,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 3,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 4,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 107,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 9,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 65 años y más",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 5,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 5° año básico",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2025",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas de 60 años a 64 años",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 13,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 49,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 307,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 235,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 6,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 35,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 262,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 233,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 38,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 290,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 1336,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 62,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 369,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 89,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 1834,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 3,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 2479,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 24,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 29,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 3,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 1529,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 1911,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 157,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 339,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 3843,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 14,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 549,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "ABRIL",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 1280,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 67,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 5605,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 5,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 3077,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 27,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 31,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 4,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 1700,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 3575,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 193,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 557,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 4006,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 18,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 1059,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "MAYO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 39,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 17,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 213,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 115,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 8,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 6,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 277,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 23,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 10,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 12,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 302,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 57,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "JUNIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 4,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 20,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 31,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 10,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 3,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 9,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 163,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 10,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 13,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 54,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 3,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "JULIO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 12,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 7,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 4,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 8,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 111,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 15,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "AGOSTO",
+        "semana": "",
+        "dosis": 29,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 6,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 86,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 5,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 7,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "SEPTIEMBRE",
+        "semana": "",
+        "dosis": 13,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 17,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 9,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 9,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 112,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 3,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 8,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "OCTUBRE",
+        "semana": "",
+        "dosis": 17,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 8,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 2,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 100,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 3,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "NOVIEMBRE",
+        "semana": "",
+        "dosis": 10,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 16,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 7,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 6,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 93,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 1,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 0,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "DICIEMBRE",
+        "semana": "",
+        "dosis": 16,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 60,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 61,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 680,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 1,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 150,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 14,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 0,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 0,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 360,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 362,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 59,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 443,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más (año 1966)",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 1933,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 0,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 0,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas, ganaderas y de criaderos de cerdo",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 3,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 62,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 3,
+        "hoja": "2026"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "MARZO",
+        "semana": "11 - 12",
+        "dosis": 0,
+        "hoja": "2026"
+      }
+    ]
+  }
+}
