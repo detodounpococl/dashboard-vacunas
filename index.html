@@ -99,11 +99,13 @@ th{position:sticky;top:0;background:#0f172a;color:#93c5fd}
     <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:8px" id="quickYearBtns"></div>
     <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px">
       <select id="fYear" class="select" onchange="renderAll();updateQuickBtns()"></select>
+      <button class="qbtn" onclick="setYear('Todos')">Todos</button>
       <select id="fOrigin" class="select" onchange="renderAll()"></select>
       <select id="fMonth" class="select" onchange="renderAll()"></select>
       <input id="fGroup" class="input" list="groupList" placeholder="Filtrar grupo objetivo..." oninput="renderAll()">
       <datalist id="groupList"></datalist>
       <select id="fWeek" class="select" onchange="renderAll()"></select>
+      <button class="qbtn" onclick="setWeek('Todas')">Todas</button>
       <button class="qbtn" onclick="resetFilters()" style="padding:6px 14px">&#8635; Limpiar</button>
     </div>
 
@@ -119,8 +121,9 @@ th{position:sticky;top:0;background:#0f172a;color:#93c5fd}
         <div id="yearsChart"></div>
       </div>
       <div class="card">
-        <div class="h" id="monthsTitle">Avance mensual</div>
-        <div id="monthsChart"></div>
+        <div class="h">Accesos rápidos</div>
+        <div class="small" style="margin-bottom:10px">Se quitó el bloque de “Dosis por mes” para simplificar la lectura.</div>
+        <div id="quickActions" style="display:flex;gap:8px;flex-wrap:wrap"></div>
       </div>
     </div>
 
@@ -420,6 +423,26 @@ function updateQuickBtns(){
 function setYear(y){
   qs('fYear').value=y; renderAll(); updateQuickBtns();
 }
+
+function setWeek(v){
+  qs('fWeek').value=v; renderAll();
+}
+function renderQuickActions(){
+  const el=qs('quickActions');
+  if(!el) return;
+  const actions=[
+    ['Todos los años', ()=>setYear('Todos')],
+    ['Todos los orígenes', ()=>{qs('fOrigin').value='Todos';renderAll();}],
+    ['Todos los meses', ()=>{qs('fMonth').value='Todos';renderAll();}],
+    ['Todas las semanas', ()=>setWeek('Todas')],
+    ['Limpiar filtros', ()=>resetFilters()]
+  ];
+  el.innerHTML=actions.map((a,i)=>`<button class="qbtn" data-action="${i}">${esc(a[0])}</button>`).join('');
+  [...el.querySelectorAll('button[data-action]')].forEach(btn=>{
+    btn.onclick=()=>actions[Number(btn.dataset.action)][1]();
+  });
+}
+
 function renderBars(id,data){
   const el=qs(id);
   if(!data.length){ el.innerHTML='<div class="small">Sin datos</div>'; return; }
