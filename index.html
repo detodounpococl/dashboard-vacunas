@@ -63,9 +63,9 @@ th{position:sticky;top:0;background:#0f172a;color:#93c5fd}
   </div>
 </div>
 <div style="text-align:right;font-size:12px;color:#cbd5f5">
-<div id="clock"></div>
-<div id="epiweek" style="margin-top:6px;display:inline-block;padding:8px 12px;border-radius:12px;background:linear-gradient(135deg,#0ea5e9,#2563eb);color:#fff;font-weight:700;font-size:14px;box-shadow:0 10px 24px rgba(37,99,235,.28)">Semana epidemiológica actual: -</div>
-<div>Autor: Rodrigo Villalobos R. · rodrigovillalobos1978@gmail.com</div>
+  <div id="clock" style="margin-bottom:4px"></div>
+  <div id="epiweek" style="margin-bottom:6px;display:inline-block;padding:8px 12px;border-radius:12px;background:linear-gradient(135deg,#0ea5e9,#2563eb);color:#fff;font-weight:700;font-size:14px;box-shadow:0 10px 24px rgba(37,99,235,.28)">Semana epidemiológica actual: -</div>
+  <div style="margin-top:4px">Autor: Rodrigo Villalobos R. · <a href="mailto:rodrigovillalobos1978@gmail.com" style="color:#93c5fd;text-decoration:none">rodrigovillalobos1978@gmail.com</a></div>
 </div>
 </div>
 
@@ -78,15 +78,15 @@ th{position:sticky;top:0;background:#0f172a;color:#93c5fd}
   <input id="jsonfile" type="file" accept=".json" style="display:none" onchange="importStore(this.files)">
   <button id="btnDeleteCurrent" class="danger">Eliminar actual</button>
   <button id="btnClearAll" class="danger">Borrar todo</button>
-<span style="margin-left:auto;font-size:12px;color:#93c5fd">Acciones sensibles protegidas con clave</span>
+  <span style="margin-left:auto;font-size:12px;color:#93c5fd">Acciones sensibles protegidas con clave</span>
 </div>
 
 <div class="wrap">
   <div id="nodata" class="drop">
     <h2>Cargar archivo de Influenza</h2>
-    <p>Formato esperado: hojas <b>HISTORICO</b> y/o <b>2026</b>.</p>
+    <p>Formato esperado: hojas <b>HISTORICO</b> y/o <b>ACTUALIZAR</b>.</p>
     <p>Columnas aceptadas: <b>CAMPANIA, ANIO/AÑO, ORIGEN, GRUPO_OBJETIVO, MES, DOSIS_MES</b> y opcionalmente <b>SEMANA</b>.</p>
-    <p>Los archivos quedan guardados en este navegador para facilitar la comparación año a año.</p>
+    <p>El dashboard intenta cargar automáticamente <b>influenza.json</b> al abrir. También puedes usar las acciones protegidas para cargar o importar datos manualmente.</p>
   </div>
 
   <div id="dash" class="hide">
@@ -138,7 +138,7 @@ th{position:sticky;top:0;background:#0f172a;color:#93c5fd}
 
 <div class="footer">Versión dedicada a Influenza. Después se puede ampliar con COVID, viruela símica y nirsevimab.</div>
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+<script>
 const STORE_KEY='influenza_dashboard_store_v1';
 let datasets={}, current='__ALL__';
 
@@ -183,14 +183,15 @@ function parseWorkbook(wb, filename){
   let allRows=[], years=[];
   wb.SheetNames.forEach(sn=>{
     const name=sn.toUpperCase().trim();
-    if(name!=='HISTORICO' && name!=='2026') return;
+    // Acepta HISTORICO y ACTUALIZAR (antes 2026)
+    if(name!=='HISTORICO' && name!=='ACTUALIZAR') return;
     const raw=XLSX.utils.sheet_to_json(wb.Sheets[sn],{header:1,defval:null});
     if(!raw.length) return;
     const headers=(raw[0]||[]).map(normHeader);
     const ci=(...names)=> headers.findIndex(h=>names.includes(h));
     const idx={
       camp:ci('CAMPANIA'),
-      anio:ci('ANIO','AÑO'),
+      anio:ci('ANIO','AÑO','ANO'),
       origen:ci('ORIGEN'),
       grupo:ci('GRUPO_OBJETIVO'),
       mes:ci('MES'),
@@ -315,10 +316,8 @@ function summarize(rows){
     const wk=r.semana||'Sin semana';
     const weekKey=`${r.anio} · Semana ${wk}`;
     weekMap[weekKey]=(weekMap[weekKey]||0)+r.dosis;
-
     if(!monthByYear[r.anio]) monthByYear[r.anio]={};
     monthByYear[r.anio][r.mes]=(monthByYear[r.anio][r.mes]||0)+r.dosis;
-
     if(!groupByYear[r.anio]) groupByYear[r.anio]={};
     groupByYear[r.anio][r.grupo]=(groupByYear[r.anio][r.grupo]||0)+r.dosis;
   });
@@ -330,29 +329,18 @@ function summarize(rows){
     return MONTH_ORDER.indexOf(a.mesNombre)-MONTH_ORDER.indexOf(b.mesNombre);
   });
   const weeks=Object.entries(weekMap).map(([semana,dosis])=>({semana,dosis})).sort((a,b)=>String(a.semana).localeCompare(String(b.semana),'es',{numeric:true}));
-
-  const peakMonthsByYear = years.map(y=>{
+  const peakMonthsByYear=years.map(y=>{
     const entries=Object.entries(monthByYear[y.anio]||{});
     if(!entries.length) return `${y.anio}: -`;
-    entries.sort((a,b)=>{
-      const diff=b[1]-a[1];
-      if(diff!==0) return diff;
-      return MONTH_ORDER.indexOf(a[0])-MONTH_ORDER.indexOf(b[0]);
-    });
+    entries.sort((a,b)=>{ const diff=b[1]-a[1]; return diff!==0?diff:MONTH_ORDER.indexOf(a[0])-MONTH_ORDER.indexOf(b[0]); });
     return `${y.anio}: ${entries[0][0]}`;
   });
-
-  const topGroupsByYear = years.map(y=>{
+  const topGroupsByYear=years.map(y=>{
     const entries=Object.entries(groupByYear[y.anio]||{});
     if(!entries.length) return `${y.anio}: -`;
-    entries.sort((a,b)=>{
-      const diff=b[1]-a[1];
-      if(diff!==0) return diff;
-      return a[0].localeCompare(b[0],'es');
-    });
+    entries.sort((a,b)=>{ const diff=b[1]-a[1]; return diff!==0?diff:a[0].localeCompare(b[0],'es'); });
     return `${y.anio}: ${entries[0][0]}`;
   });
-
   return {total, groups, years, months, weeks, peakMonthsByYear, topGroupsByYear, registros:rows.length};
 }
 function renderAll(){
@@ -361,7 +349,6 @@ function renderAll(){
   const dsCount=current==='__ALL__'?datasetKeys().length:1;
   const yearLabel=[...new Set(rows.map(r=>r.anio))].sort((a,b)=>a.localeCompare(b,'es',{numeric:true})).join(', ') || '-';
   qs('info').innerHTML=`<b>Ámbito:</b> ${current==='__ALL__'?'Histórico acumulado':esc(current)} · <b>Archivos visibles:</b> ${dsCount} · <b>Años visibles:</b> ${esc(yearLabel)}`;
-
   qs('kpis').innerHTML=[
     ['Dosis totales', fmtInt(s.total)],
     ['Registros', fmtInt(s.registros)],
@@ -370,18 +357,14 @@ function renderAll(){
     ['Mes pico por año', s.peakMonthsByYear.join(' · ') || '-'],
     ['Grupo principal por año', s.topGroupsByYear.join(' · ') || '-']
   ].map(([l,v])=>{ const sv=String(v); const cls=sv.length>35?'xlong':(sv.length>22?'long':''); return `<div class="card kpi"><div class="v ${cls}">${esc(sv)}</div><div class="l">${esc(l)}</div></div>`; }).join('');
-
   renderBars('groupsChart', s.groups.slice(0,12).map(x=>({label:x.grupo,value:x.dosis})));
   renderBars('yearsChart', s.years.map(x=>({label:x.anio,value:x.dosis})));
   renderCols('monthsChart', s.months.map(x=>({label:x.mes.slice(0,3),value:x.dosis})));
-
   qs('tGroups').innerHTML='<thead><tr><th>#</th><th>Grupo</th><th>Dosis</th><th>%</th></tr></thead><tbody>' +
     s.groups.map((g,i)=>`<tr><td>${i+1}</td><td>${esc(g.grupo)}</td><td>${fmtInt(g.dosis)}</td><td>${s.total?((g.dosis/s.total)*100).toFixed(1):'0.0'}%</td></tr>`).join('') + '</tbody>';
-
   qs('periodTitle').textContent='Resumen por año y mes';
   qs('tWeeks').innerHTML='<thead><tr><th>#</th><th>Periodo</th><th>Dosis</th></tr></thead><tbody>' +
     s.months.map((m,i)=>`<tr><td>${i+1}</td><td>${esc(m.mes)}</td><td>${fmtInt(m.dosis)}</td></tr>`).join('') + '</tbody>';
-
   qs('tDetail').innerHTML='<thead><tr><th>Año</th><th>Origen</th><th>Grupo objetivo</th><th>Mes</th><th>Semana</th><th>Dosis</th></tr></thead><tbody>' +
     rows.slice().sort((a,b)=>
       a.anio.localeCompare(b.anio,'es',{numeric:true}) ||
@@ -412,74 +395,84 @@ function renderCols(id,data){
       <div class="x">${esc(d.label)}</div>
     </div>`).join('') + '</div>';
 }
-
-loadStore();
-updateDatasetSelect();
-switchDataset('__ALL__');
 </script>
-
 
 <script>
 function getEpiWeek(date){
-  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
-  const dayNum = d.getUTCDay() || 7;
-  d.setUTCDate(d.getUTCDate() + 4 - dayNum);
-  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
-  return Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+  const d=new Date(Date.UTC(date.getFullYear(),date.getMonth(),date.getDate()));
+  const dayNum=d.getUTCDay()||7;
+  d.setUTCDate(d.getUTCDate()+4-dayNum);
+  const yearStart=new Date(Date.UTC(d.getUTCFullYear(),0,1));
+  return Math.ceil((((d-yearStart)/86400000)+1)/7);
 }
 function updateClock(){
-  const now = new Date();
-  const f = now.toLocaleString('es-CL',{dateStyle:'medium', timeStyle:'medium'});
+  const now=new Date();
+  const f=now.toLocaleString('es-CL',{dateStyle:'medium',timeStyle:'medium'});
   const el=document.getElementById('clock');
   if(el) el.textContent='Actualizado: '+f;
   const ew=document.getElementById('epiweek');
-  if(ew) ew.textContent='Semana epidemiológica actual: ' + getEpiWeek(now);
+  if(ew) ew.textContent='Semana epidemiológica actual: '+getEpiWeek(now);
 }
 
 async function sha256Hex(str){
-  const data = new TextEncoder().encode(str);
-  const hash = await crypto.subtle.digest('SHA-256', data);
-  return Array.from(new Uint8Array(hash)).map(b => b.toString(16).padStart(2,'0')).join('');
+  const data=new TextEncoder().encode(str);
+  const hash=await crypto.subtle.digest('SHA-256',data);
+  return Array.from(new Uint8Array(hash)).map(b=>b.toString(16).padStart(2,'0')).join('');
 }
 
-// Mejor esfuerzo en cliente: hash en lugar de texto plano.
-// Aun así, cualquier protección 100% dentro de un HTML local puede ser eludida por alguien con conocimientos técnicos.
-const PROTECTED_HASH = '98314c53c51045f1e6ca00efe6cf90e8d755cf7f0f6bd014c9ec85fbfb2be012';
+const PROTECTED_HASH='98314c53c51045f1e6ca00efe6cf90e8d755cf7f0f6bd014c9ec85fbfb2be012';
 
 async function requestProtectedAccess(action){
-  const key = prompt('Ingrese clave de acceso para continuar:');
-  if(key === null) return false;
-  const entered = await sha256Hex(key);
-  if(entered !== PROTECTED_HASH){
-    alert('Clave incorrecta.');
-    return false;
-  }
+  const key=prompt('Ingrese clave de acceso para continuar:');
+  if(key===null) return false;
+  const entered=await sha256Hex(key);
+  if(entered!==PROTECTED_HASH){ alert('Clave incorrecta.'); return false; }
   action();
   return true;
 }
 
 function bindProtectedButtons(){
-  const byId = (id)=>document.getElementById(id);
+  const byId=id=>document.getElementById(id);
+  byId('btnLoad').addEventListener('click',()=>requestProtectedAccess(()=>document.getElementById('file').click()));
+  byId('btnImport').addEventListener('click',()=>requestProtectedAccess(()=>document.getElementById('jsonfile').click()));
+  byId('btnDeleteCurrent').addEventListener('click',()=>requestProtectedAccess(()=>deleteCurrent()));
+  byId('btnClearAll').addEventListener('click',()=>requestProtectedAccess(()=>clearAll()));
+}
 
-  const btnLoad = byId('btnLoad');
-  if(btnLoad){
-    btnLoad.addEventListener('click', ()=>requestProtectedAccess(()=>{
-      document.getElementById('file').click();
-    }));
+async function loadDefaultJsonAuto(){
+  try{
+    const resp=await fetch('./influenza.json?v='+Date.now(),{cache:'no-store'});
+    if(!resp.ok) throw new Error('No se pudo leer influenza.json');
+    const parsed=await resp.json();
+    if(parsed && typeof parsed==='object' && Object.keys(parsed).length){
+      datasets=parsed;
+      saveStore();
+      updateDatasetSelect();
+      switchDataset('__ALL__');
+      const info=document.getElementById('info');
+      if(info) info.innerHTML='<b>Fuente:</b> influenza.json cargado automáticamente · '+info.innerHTML;
+      return true;
+    }
+  }catch(err){ console.error('Error cargando influenza.json:',err); }
+  return false;
+}
+
+async function startDashboard(){
+  loadStore();
+  updateDatasetSelect();
+  if(!datasetKeys().length){
+    const ok=await loadDefaultJsonAuto();
+    if(!ok) switchDataset('__ALL__');
+  }else{
+    switchDataset('__ALL__');
+    loadDefaultJsonAuto();
   }
+  bindProtectedButtons();
+  updateClock();
+  setInterval(updateClock,1000);
+}
 
-  const btnImport = byId('btnImport');
-  if(btnImport){
-    btnImport.addEventListener('click', ()=>requestProtectedAccess(()=>{
-      document.getElementById('jsonfile').click();
-    }));
-  }
-
-  const btnDeleteCurrent = byId('btnDeleteCurrent');
-  if(btnDeleteCurrent){
-    btnDeleteCurrent.addEventListener('click', ()=>requestProtectedAccess(()=>{
-      deleteCurrent();
-    }));
-  }
-
-  const btnClearAll = byId('btnClearAl
+startDashboard();
+</script>
+</body>
+</html>
