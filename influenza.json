@@ -1999,6 +1999,16 @@
         "campaign": "INFLUENZA",
         "anio": "2024",
         "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "MARZO",
+        "semana": "",
+        "dosis": 13,
+        "hoja": "HISTORICO"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2024",
+        "origen": "CONSOLIDADO",
         "grupo": "Embarazadas",
         "mes": "MARZO",
         "semana": "",
