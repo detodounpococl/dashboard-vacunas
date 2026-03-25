@@ -16074,6 +16074,196 @@
         "semana": "11 - 12",
         "dosis": 0,
         "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Cuidadores de adultos mayores y funcionarios de los ELEAM",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 79,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Embarazadas",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 90,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Enfermos cronicos de 11 a 59 años de edad",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 951,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "EPRO",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 1,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Escolares de 1° a 5° año básico",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 196,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Estrategia Capullo",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 20,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "GES",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 0,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Ley Ricarte Soto",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 0,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Niños y niñas de 6 meses a 5 años de edad",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 467,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Otras prioridades",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 548,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Privado",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 74,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "P. de salud: Público",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 463,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más (año 1966)",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 2756,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Personas mayores de 60 años y más",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 0,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas y de criaderos de cerdo",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 0,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de avícolas, ganaderas y de criaderos de cerdo",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 4,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Trabajadores de la educación  preescolar y escolar hasta 8° basico",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 72,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Vacunación privada (No población objetivo)",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 3,
+        "hoja": "ACTUALIZAR"
+      },
+      {
+        "campaign": "INFLUENZA",
+        "anio": "2026",
+        "origen": "CONSOLIDADO",
+        "grupo": "Población general",
+        "mes": "MARZO",
+        "semana": "13",
+        "dosis": 0,
+        "hoja": "ACTUALIZAR"
       }
     ]
   }
